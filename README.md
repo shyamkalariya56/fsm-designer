@@ -4,7 +4,6 @@ A professional **Hierarchical Finite State Machine (HFSM) diagram tool** that ru
 
 Open the file in any browser and start designing.
 
-![FSM Designer Screenshot](screenshot.png)
 
 ---
 
